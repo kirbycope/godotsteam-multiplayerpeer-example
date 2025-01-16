@@ -24,3 +24,10 @@ This section created following along Gwizz's YouTube video, [Godot 4 Steam Expor
 1. Select "Save"
     - Again, ignore rcedit warnings
 1. If you get an error on Launch, it is becuase you need the [steam_api64.dll](export/steam_api64.dll) next to the `.exe`
+
+## Fixing RCEDIT Warnings
+1. Download [rcedit](https://github.com/electron/rcedit/releases)
+1. Open GodotSteam
+1. Select "Editor" > "Editor Settings..."
+1. Select "Export" > "Windows"
+1. Open the rcedit file

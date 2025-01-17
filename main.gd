@@ -43,6 +43,7 @@ func _on_lobby_match_list(lobbies):
 
 		$LobbyContainer/Lobbies.add_child(button)
 
+
 func join_lobby(id):
 	peer.connect_lobby(id)
 	multiplayer.multiplayer_peer = peer

@@ -1,7 +1,7 @@
 ![godotsteam-multiplayerpeer-example](/godotsteam-multiplayerpeer-example.png)
 
-# godotsteam-multiplayerpeer-example
-An example for GodotSteam MultiplayerPeer.
+# godotsteam-multiplayerpeer-example-2d
+A 2D example for GodotSteam MultiplayerPeer.
 
 ### Background
 This was made following along Gwizz's Youtube video, [Godot 4 Steam Multiplayer](https://www.youtube.com/watch?v=fUBdnocrc3Y).

@@ -1,4 +1,4 @@
-![godotsteam-multiplayerpeer-example](/godotsteam-multiplayerpeer-example.png)
+![Screenshot](/godotsteam-multiplayerpeer-example-2d.png)
 
 # godotsteam-multiplayerpeer-example-2d
 A 2D example for GodotSteam MultiplayerPeer.
